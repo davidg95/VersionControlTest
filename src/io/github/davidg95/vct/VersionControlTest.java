@@ -18,6 +18,7 @@ public class VersionControlTest {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Version Control Test");
+        JOptionPane.showMessageDialog(null, "My seconds dialog");
     }
     
 }
