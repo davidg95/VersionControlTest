@@ -17,7 +17,7 @@ public class VersionControlTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Version Control Test");
+        JOptionPane.showMessageDialog(null, "Version Control Test message");
     }
     
 }
